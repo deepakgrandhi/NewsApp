@@ -2,6 +2,10 @@
 
 The News App is a versatile and user-friendly application that provides real-time news updates and articles on various topics. The app is designed to work seamlessly on both web and mobile interfaces, providing a consistent and engaging experience across platforms.
 
+# Video Links
+https://www.youtube.com/shorts/TnFLn417fro
+https://www.youtube.com/watch?v=TTXAPgez1Rw
+
 ## Key Features
 
 1. **Pull Down to Refresh**: Stay up-to-date with the latest news by simply pulling down the news feed to trigger a refresh. This feature allows you to fetch new articles and updates instantly.
